@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahulmehtaa
-- 👀 I’m interested in Software Design and development, Basically Website Development but also has interest in Java Software development
-- 🌱 I’m currently learning Full Stack Web Development and Java Software Development. 
+- 👀 I’m interested in Software/Web Design and development.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Any Open Source Project which can boost my learning more fast and make me an skilled and industry-ready developer.
 - 📫 How to reach me Whatsapp @ 8585935587, IG @ https://www.instagram.com/mr_mehta4uh/, Twitter @ https://twitter.com/Rahulmehta1818
 
